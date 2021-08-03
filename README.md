@@ -1,5 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Hi I am Henry,a Software Engineer / Software Architect working in Startup and a huge lover of web technologies. How can I help you? Oh, I nearly forgot to tell you: You are awesome!</p>
+<p>Hi I am Henry,a Software Engineer / Software Architect working in Startup and a huge lover of web technologies. </p>
+<p> Oh, I nearly forgot to tell you: You are awesome!</p>
 
 <h3>About me: </h3>
 
