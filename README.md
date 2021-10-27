@@ -5,7 +5,7 @@
 <h3>About me: </h3>
 
 ```javascript
-const hnyjson = {
+const hryjosn = {
     pronouns: "He" | "Him",
     code: ["Javascript", "Typescript", "Java", "python"],
     askMeAbout: ["web dev", "tech", "mobile app dev"],
