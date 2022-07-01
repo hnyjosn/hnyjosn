@@ -25,7 +25,7 @@ const hryjosn = {
         misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Server side render app application", "Single page applications"],
-    currentFocus: "Backend Development",
+    currentFocus: "Chia Block Chain",
 };
 ```
 
