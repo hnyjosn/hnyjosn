@@ -49,7 +49,7 @@ const hryjosn = {
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" /> -->
 
-- 🔭 I’m currently working on build a crypto wallet on Chia chain
+- 🔭 I’m currently working on make a cool startup
 <!--
 **hnyjosn/hnyjosn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
