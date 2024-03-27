@@ -22,10 +22,9 @@ const hryjosn = {
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
         databases: ["mongoDB", "PostgreSQL", "MSSql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Server side render app application", "Single page applications"],
-    currentFocus: "Chia Block Chain",
+    currentFocus: "React Native",
 };
 ```
 
