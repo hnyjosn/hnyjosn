@@ -1,12 +1,16 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Hi I am Henry, a Software Engineer / Software Architect working in Startup and a huge lover of web technologies. </p>
+<p>Hi, I'm Henry, a Software Engineer and Architect passionate about building scalable web and mobile applications. Currently working at a startup, I enjoy solving challenging problems and contributing to innovative solutions.</p>
 
-<h3>About me: </h3>
+<h3>About Me</h3>
+<p>
+  I'm a lover of technology, constantly learning, and always eager to take on new challenges in software development.
+  My current focus is on React Native, and I'm enthusiastic about all things related to serverless architecture, mobile dev, and modern web frameworks.
+</p>
 
 ```javascript
 const hryjosn = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Java", "python"],
+    code: ["Javascript", "Typescript", "Java", "Python"],
     askMeAbout: ["web dev", "tech", "mobile app dev"],
     technologies: {
         backEnd: {
@@ -14,17 +18,18 @@ const hryjosn = {
         },
         frontEnd: {
             js: ["React", "Next.js"],
-            css: ["material UI", "Antd", "bootstrap", "Gatsby"],
-            streaming: ["webRTC", "Janus Server"]
+            css: ["Material UI", "Antd", "Bootstrap", "Gatsby"],
+            streaming: ["webRTC", "Janus Server"],
         },
         mobileApp: {
             native: ["React Native"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongoDB", "PostgreSQL", "MSSql", "sqlite"],
+        databases: ["MongoDB", "PostgreSQL", "MSSQL", "sqlite"],
     },
-    architecture: ["Serverless Architecture", "Server side render app application", "Single page applications"],
+    architecture: ["Serverless Architecture", "SSR", "Single Page Applications"],
     currentFocus: "React Native",
+    projects: ["Onlyface", "Coding tutoring system"]
 };
 ```
 
